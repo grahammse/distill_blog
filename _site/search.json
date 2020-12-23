@@ -5,28 +5,35 @@
       "title": "About - Function a Week",
       "author": [],
       "contents": "\nThis series of pages contains short descriptions of functions that I’ve found particularly useful. Typically, these are functions that are generally underutilized, one’s I’ve recently discovered and am excited about, or simply those that I’ve found myself using with greater frequency over time. I’ll try to highlight useful features of these functions and show how they might solve thorny problems that R users may encounter. But mostly this is just a means for me to commit some things I’ve been doing a lot lately to memory.\n\n\n\n",
-      "last_modified": "2020-12-23T08:51:34-08:00"
+      "last_modified": "2020-12-23T12:15:33-08:00"
     },
     {
       "path": "about_mod.html",
       "title": "About - 20 Minute Modules",
       "author": [],
       "contents": "\nThis series of pages is an introductory course on getting started with R for folks who have never used R before. Each page consists of a digestible 20 minute vignette on a simple task in R. My hope is that after completing all of these modules, the previously naive R user will feel comfortable importing, wrangling, exploring, and visualizing their data.\n\n\n\n",
-      "last_modified": "2020-12-23T08:51:35-08:00"
+      "last_modified": "2020-12-23T12:15:34-08:00"
     },
     {
       "path": "about.html",
       "title": "About",
       "author": [],
-      "contents": "\n\n\n\nI am a biostatistician and licensed clinical neuropsychologist living in the San Diego area. I received my PhD in Clinical Psychology from the University at Albany and completed my clinical internship in neuropsychology at the University of California, San Diego and VA San Diego. I then completed postdoctoral fellowships at the University of California, San Diego and VA San Diego specializing in aging and dementia. I recently left academia to become a Senior Biostatistician at Canopy Growth Corporation in the Human and Animal Research Program. This blog is part documentation of my experience transitioning to industry and part tutorial on data science, all through the lens of R.\n\n\n\n",
-      "last_modified": "2020-12-23T08:51:37-08:00"
+      "contents": "\n\n\n\nI am a biostatistician and licensed clinical neuropsychologist living in the San Diego area. I received my PhD in Clinical Psychology from the University at Albany and completed my clinical internship in neuropsychology at the University of California, San Diego and VA San Diego. I then completed postdoctoral fellowships at the University of California, San Diego and VA San Diego specializing in aging and dementia. I recently became a Senior Biostatistician at Canopy Growth Corporation in the Human and Animal Research Program. This blog is part documentation of my experience transitioning to industry and part tutorial on data science, all through the lens of R.\n\n\n\n",
+      "last_modified": "2020-12-23T12:15:35-08:00"
     },
     {
       "path": "index.html",
       "title": "Graham Eglit's Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-12-23T08:51:37-08:00"
+      "last_modified": "2020-12-23T12:21:03-08:00"
+    },
+    {
+      "path": "resources.html",
+      "title": "Resources for Learning R",
+      "author": [],
+      "contents": "\nI’m often asked by new R users for materials that I would recommend for learning R. Below is a list of some my favorite R resources.\nLearning R\nR for Data ScienceHands-On Programming with RR CookbookKelly Bodwin’s Youtube Channel\nData Visualization\nggplot2: Elegance Graphics for Data AnalysisR Graphics CookbookFrom Data to Vizggplot2 workshop by Thomas Lin Pedersen\nR Markdown\nR Markdown: The Definitive GuideR Markdown Cookbook\nR Books\nThis is a tremendous and well-organized compendium of books on R: Big Book of R\nGitHub\nHappy Git and GitHub for the useR\nGeneral Resources\nR Bloggers\n\n\n\n",
+      "last_modified": "2020-12-23T12:15:36-08:00"
     }
   ],
   "collections": ["posts/posts.json"]

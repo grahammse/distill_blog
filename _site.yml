@@ -10,8 +10,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Blog"
-    - href: posts.html
     - text: "Resources"
       href: resources.html
     - text: "Function a Week"

@@ -1,0 +1,39 @@
+---
+title: "Resources for Learning R"
+description: |
+---
+
+I'm often asked by new R users for materials that I would recommend for learning R.  Below is a list of some my favorite R resources.
+
+## Learning R
+
+[R for Data Science](https://r4ds.had.co.nz)\
+[Hands-On Programming with R](https://rstudio-education.github.io/hopr/)\
+[R Cookbook](https://rc2e.com)\
+[Kelly Bodwin's Youtube Channel](https://www.youtube.com/user/SuperKrazy2000)\
+
+
+## Data Visualization
+
+[ggplot2:  Elegant Graphics for Data Analysis](https://ggplot2-book.org)\
+[R Graphics Cookbook](https://r-graphics.org)\
+[From Data to Viz](https://www.data-to-viz.com)\
+[ggplot2 workshop by Thomas Lin Pedersen](https://www.youtube.com/watch?v=h29g21z0a68)\
+
+
+## R Markdown
+
+[R Markdown: The Definitive Guide](https://www.bigbookofr.com/reports-r-markdown-and-knitr.html#r-markdown-the-definitive-guide)\
+[R Markdown Cookbook](https://www.bigbookofr.com/reports-r-markdown-and-knitr.html#r-markdown-cookbook)\
+
+## R Books
+
+This is a tremendous and well-organized compendium of books on R:  [Big Book of R](https://www.bigbookofr.com/index.html)  \
+
+## GitHub
+
+[Happy Git and GitHub for the useR](https://happygitwithr.com)\
+
+## General Resources
+
+[R Bloggers](https://www.r-bloggers.com)\
