@@ -3,4 +3,4 @@ title: "About - Function a Week"
 description: |
 ---
 
-This series of pages is a listing of functions that I've found particularly useful.  Typically, these are functions that are generally underutilized, one's I've recently discovered and am excited about, or simply those that I've found myself using with greater frequency over time.  I'll try to highlight useful features of these functions and show how they might solve thorny problems that R users may encounter.  
+This series of pages contains short descriptions of functions that I've found particularly useful.  Typically, these are functions that are generally underutilized, one's I've recently discovered and am excited about, or simply those that I've found myself using with greater frequency over time.  I'll try to highlight useful features of these functions and show how they might solve thorny problems that R users may encounter.  But mostly this is just a means for me to commit some things I've been doing a lot lately to memory.
