@@ -2,6 +2,7 @@ name: "temp_blog"
 title: "Graham Eglit's Blog"
 description: |
   Graham Eglit's Blog
+base_url:  https://TBD.com
 output_dir: "_site"
 navbar:
   right:
@@ -9,4 +10,14 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Blog"
+    - href: posts.html
+    - text: "Function a Week"
+      href: function.html
+    - text: "20 Minute Modules"
+      href: modules.html
+    - text: "CV"
+      href: cv.html
+    
+     
 output: distill::distill_article
