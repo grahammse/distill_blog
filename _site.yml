@@ -12,14 +12,20 @@ navbar:
       href: about.html
     - text: "Blog"
     - href: posts.html
+    - text: "Resources"
+      href: resources.html
     - text: "Function a Week"
       menu:
+        - text: "About"
+          href: about_function.html
         - text: "tidyr::pivot_wider"
           href: pivot_wider.html
         - text: "janitor::clean_names"
           href: clean_names.html
     - text: "20 Minute Modules"
       menu:
+        - text: "About"
+          href: about_mod.html
         - text: "Module 1:  Getting Started"
           href: mod1.html
         - text: "Module 2:  Indexing, Calculation, etc."
