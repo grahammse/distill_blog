@@ -3,4 +3,4 @@ title: "About - 20 Minute Modules"
 description: |
 ---
 
-This series of pages is an introductory course on getting started with R for folks who have never used R before.  Each page consists of a digestible 20 minute vignette on a simple task in R.  My hope is that after completing all of these modules, the previously naive R user will feel comfortable importing, wrangling, exploring, and visualizing their data.
+This series of pages is an introductory course on getting started with R for folks who have never used R before.  Each page consists of a digestible 20 minute vignette on a simple task in R.  My hope is that after completing all of these modules, the previously naive user will feel comfortable importing, wrangling, exploring, and visualizing their data.

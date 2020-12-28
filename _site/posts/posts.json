@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2020-12-28-creating-a-distill-blog/",
+    "title": "Creating a Distill Blog",
+    "description": "A short tutorial on how I created my Distill blog.",
+    "author": [
+      {
+        "name": "Graham Eglit",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-28",
+    "categories": [],
+    "contents": "\n\nContents\nStep 1: Create a GitHub Repo\n\nFor my first blog post, I thought I would run through how I went about creating my Distill blog. Distill is a terrific R package to create websites or blogs designed for scientific and technical writing. It has pretty good functionality with some very nice default settings, although it’s less customizable than blogdown. This tradeoff, however, makes the initial development process much faster. Following this tutorial, you should be able to get your blog onto the web in less than an hour. There are some additional opportunities for customization, which I may explore in a future blog post. But for now, I’ll just describe the process of creating the default Distill blog, which can be accomplished in seven steps.\nBefore I detail each of those steps, I wanted to highlight the resources I used to create my Distill blog. If readers have any questions as they go through my explanation, these resources should be able to fill in the gaps.\nSharing on Short Notice\nDistill for R Markdown\nThe Mockup Blog\nAlright, let’s get started…\n\n\n\nStep 1: Create a GitHub Repo\n\n\n\n",
+    "preview": "posts/2020-12-28-creating-a-distill-blog/distill_hex.png",
+    "last_modified": "2020-12-28T07:02:45-08:00",
+    "input_file": {},
+    "preview_width": 2521,
+    "preview_height": 2911
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Graham Eglit's Blog",
     "description": "Welcome to the blog.  I'll be doing some stuff here.  For now, this is just a trial post",

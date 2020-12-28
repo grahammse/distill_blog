@@ -3,12 +3,18 @@ title: "Resources for Learning R"
 description: |
 ---
 
-I'm often asked by new R users for materials that I would recommend for learning R.  Below is a list of some my favorite R resources.
+I'm often asked to recommend materials for learning R.  Fortunately, there are a lot of great resources out there.  Listed below are some of my favorites, but of course there are many, many others.  These are primarily geared towards beginner and intermediate R users.  I'll periodically update this list as I discover new materials.\
+
+```{r picture,out.width="200%"}
+knitr::include_graphics("hex.jpg")
+```
+
 
 ## Learning R
 
 [R for Data Science](https://r4ds.had.co.nz)\
 [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)\
+[Data Science in a Box](https://datasciencebox.org/index.html)\
 [R Cookbook](https://rc2e.com)\
 [Kelly Bodwin's Youtube Channel](https://www.youtube.com/user/SuperKrazy2000)\
 
@@ -23,8 +29,8 @@ I'm often asked by new R users for materials that I would recommend for learning
 
 ## R Markdown
 
-[R Markdown: The Definitive Guide](https://www.bigbookofr.com/reports-r-markdown-and-knitr.html#r-markdown-the-definitive-guide)\
-[R Markdown Cookbook](https://www.bigbookofr.com/reports-r-markdown-and-knitr.html#r-markdown-cookbook)\
+[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)\
+[R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)\
 
 ## R Books
 
@@ -37,3 +43,4 @@ This is a tremendous and well-organized compendium of books on R:  [Big Book of 
 ## General Resources
 
 [R Bloggers](https://www.r-bloggers.com)\
+[R Cheatsheets](https://rstudio.com/resources/cheatsheets/)

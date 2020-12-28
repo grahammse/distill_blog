@@ -28,6 +28,12 @@ navbar:
           href: mod1.html
         - text: "Module 2:  Indexing, Calculation, etc."
           href: mod2.html
+    - icon: fa fa-github
+      href: https://github.com/grahammse
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/graham-eglit-phd/
+    - icon: fa fa-twitter
+      href: https://twitter.com/EglitGraham
     - text: "CV"
       href: cv.pdf
     - icon: fa fa-rss

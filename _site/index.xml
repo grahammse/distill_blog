@@ -7,7 +7,16 @@
     <description>Graham Eglit's Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Creating a Distill Blog</title>
+      <dc:creator>Graham Eglit</dc:creator>
+      <link>https://TBD.com/posts/2020-12-28-creating-a-distill-blog</link>
+      <description>A short tutorial on how I created my Distill blog.</description>
+      <guid>https://TBD.com/posts/2020-12-28-creating-a-distill-blog</guid>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://TBD.com/posts/2020-12-28-creating-a-distill-blog/distill_hex.png" medium="image" type="image/png" width="2521" height="2911"/>
+    </item>
     <item>
       <title>Welcome to Graham Eglit's Blog</title>
       <dc:creator>Graham Eglit</dc:creator>
